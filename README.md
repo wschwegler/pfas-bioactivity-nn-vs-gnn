@@ -65,6 +65,8 @@ Overall, the results indicate that neither model is universally superior; instea
 ## Repository Structure
 Comps_Paper.pdf Full paper describing methodology, experiments, and results
 
+Poster_Presentation.pdf Poster Presented to Students and Faculty describing methodology, experiments, and results
+
 data_set_gen_v2.py Dataset generation and preprocessing for GNN inputs
 
 NN.py Neural Network training and evaluation
